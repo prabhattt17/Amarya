@@ -1,0 +1,134 @@
+*{
+    margin=0;
+    padding: 0;
+}
+
+body{
+    background-color:  rgb(21, 140, 182);
+    font-family: 'Comic Sans MS';
+}
+.navbar-brand{
+    text:bold;
+}
+
+.form{
+    padding-left: 20px;
+}
+.heading1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(7, 8, 197);
+    margin-top: 20px;
+    font-family: 'Comic Sans MS';
+    font-weight:bold;
+    font
+ 
+}
+.btn{
+    color: rgb(21,140,182); 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 4px;                    
+    border-color: rgb(21,140,182);
+    border-width: thin;
+    padding: 2px 12px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-right: 600px;
+  }
+  .btn-outline-primary:hover{
+    
+    background-color:  rgb(21,140,182);
+  }
+.c1{
+    background-color:white;
+    border-style: solid;
+    border-color: lightblue;
+   border-radius: 5px;
+   margin-right: 10px;
+   border-width: 2px;
+   border-style:outset;
+}  
+.c4{
+    border-style:solid;
+    border-color: white;
+    background-color:white;
+    border-width: 40%;
+    box-shadow: outset;
+    border-width:- 100px;
+    border-right-width: 20px;
+    width: fit-content;
+    font-size: 15px;
+}
+.text1{
+    font-size: 15px;
+    color: rgb(128,150,148);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+    margin-right: 900px;
+}
+.text{
+    margin-bottom:-10px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: rgb(15,141,189);
+    font-family:'Comic Sans MS';
+    font-weight: bolder;
+}
+.m{
+    color: rgb(21, 140, 182);
+    font-weight: bolder;
+    font-family:'calibri';
+    font-size: 30px;
+}
+.b{
+    color: rgb(128,150,148);
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: -21px;
+
+}
+.fa{
+        color:rgb(128,150,148);
+        padding: 20px;
+        font-size: 25px;
+        width: 7px;
+        text-align: center;
+        text-decoration: none
+}
+.fa:hover {
+    opacity: 0.7;
+  }
+  .h11{
+    color: rgb(21,140,182); 
+    font-weight: bold;
+}
+
+.text11{
+    color: rgb(128,150,148);
+    font-weight: bold;
+}
+.btn123{
+    color:rgb(21,140,182); 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 4px;
+    border-color: rgb(21,140,182);
+    border-width: thin;
+    padding: 2px 12px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btn123-outline-success:hover{
+    background-color:  rgb(21,140,182);
+  }   
+  .vbn{
+    background-color:white;
+    padding: 2%;
+  }
